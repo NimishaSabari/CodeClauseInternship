@@ -2,7 +2,7 @@ import time
 import random
 
 def get_random_sentence():
-    # Replace this function with your own logic to get sentences
+    
     sentences = ["The quick brown fox jumps over the lazy dog.",
                  "Programming is fun and rewarding.",
                  "Practice makes perfect."]
